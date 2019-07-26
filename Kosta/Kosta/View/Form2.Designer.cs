@@ -88,7 +88,7 @@
 			this.userText.Name = "userText";
 			this.userText.Size = new System.Drawing.Size(196, 20);
 			this.userText.TabIndex = 5;
-			this.userText.Text = "DESKTOP-SMHS2FC\\Pekarnik";
+			this.userText.Text = "pek";
 			// 
 			// label4
 			// 
@@ -105,6 +105,7 @@
 			this.passwordText.Name = "passwordText";
 			this.passwordText.Size = new System.Drawing.Size(196, 20);
 			this.passwordText.TabIndex = 7;
+			this.passwordText.Text = "root";
 			// 
 			// button1
 			// 
